@@ -1,4 +1,4 @@
-# 🏅 Case Study: Olympic Games Athlete Analysis
+# 🏅 _Olympic Games Data Analysis: 120 Years of Athletic Excellence_
 ## 📌 Overview
 
 This project focuses on analyzing Olympic Games athlete data using SQL.
@@ -29,6 +29,18 @@ Sport – Type of sport
 Event – Specific event participated
 
 Medal – Medal won (Gold, Silver, Bronze, NA)
+
+## Key Statistics
+
+**Time Period:** 1896 (Athens) to 2016 (Rio)
+
+**Total Athletes:** ~135,000 unique individuals
+
+**Countries:** 230+ nations and territories
+
+**Sports:** 60+ different sports
+
+**Events:** 700+ unique events
 
 ## 🎯 Objectives
 
@@ -61,3 +73,16 @@ SQL (MySQL / PostgreSQL) – Data querying & analysis
 Python (Optional) – For data import/export
 
 Jupyter Notebook / VS Code – Running queries & documenting
+
+## 📄 License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## 🙏 Acknowledgments
+
+Kaggle for hosting the dataset
+Olympic data sourced from Olympedia.org
+International Olympic Committee for maintaining historical records
+The global Olympic community for 120+ years of athletic excellence
+
+___________________________________________________________________________________________________________________________________________________________________________________________
+⭐ Star this repository if you found it helpful! ⭐
